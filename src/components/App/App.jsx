@@ -3,7 +3,7 @@ import { ToastContainer } from 'react-toastify';
 
 import {
   Container,
-  Searchba,
+  Searchbar,
   Loader,
   ImageGallery,
   ErrorMessage,
